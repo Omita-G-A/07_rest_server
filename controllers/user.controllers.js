@@ -77,7 +77,7 @@ const usuariosDelete = async (req, res = response) => {
     res.json({
         usuario
     });
-}
+};
 
 
 module.exports = {
